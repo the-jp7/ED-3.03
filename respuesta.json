@@ -1,0 +1,684 @@
+{
+    "cnt": 15,
+    "list": [
+        {
+            "coord": {
+                "lon": -0.1257,
+                "lat": 51.5085
+            },
+            "weather": [
+                {
+                    "id": 721,
+                    "main": "Haze",
+                    "description": "niebla",
+                    "icon": "50n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 7.3,
+                "feels_like": 7.3,
+                "temp_min": 5.83,
+                "temp_max": 8.06,
+                "pressure": 1020,
+                "humidity": 93,
+                "sea_level": 1020,
+                "grnd_level": 1018
+            },
+            "visibility": 2400,
+            "wind": {
+                "speed": 0,
+                "deg": 0
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1794111619,
+            "sys": {
+                "type": 2,
+                "id": 2075535,
+                "country": "GB",
+                "sunrise": 1794121562,
+                "sunset": 1794154949
+            },
+            "timezone": 0,
+            "id": 2643743,
+            "name": "London",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 2.3488,
+                "lat": 48.8534
+            },
+            "weather": [
+                {
+                    "id": 741,
+                    "main": "Fog",
+                    "description": "bruma",
+                    "icon": "50n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 4.28,
+                "feels_like": 2.47,
+                "temp_min": 3.28,
+                "temp_max": 5.43,
+                "pressure": 1023,
+                "humidity": 100,
+                "sea_level": 1023,
+                "grnd_level": 1014
+            },
+            "visibility": 350,
+            "wind": {
+                "speed": 2.06,
+                "deg": 160
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1794111548,
+            "sys": {
+                "type": 1,
+                "id": 6550,
+                "country": "FR",
+                "sunrise": 1794120496,
+                "sunset": 1794154827
+            },
+            "timezone": 3600,
+            "id": 2988507,
+            "name": "Paris",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": -3.7026,
+                "lat": 40.4165
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cielo claro",
+                    "icon": "01n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 9.31,
+                "feels_like": 7.65,
+                "temp_min": 7.68,
+                "temp_max": 10.18,
+                "pressure": 1021,
+                "humidity": 81,
+                "sea_level": 1021,
+                "grnd_level": 940
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.056,
+                "deg": 295,
+                "gust": 10.556
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1794111387,
+            "sys": {
+                "type": 5,
+                "id": 50006275,
+                "country": "ES",
+                "sunrise": 1794120750,
+                "sunset": 1794157478
+            },
+            "timezone": 3600,
+            "id": 3117735,
+            "name": "Madrid",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 12.4839,
+                "lat": 41.8947
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cielo claro",
+                    "icon": "01n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 10.36,
+                "feels_like": 9.62,
+                "temp_min": 8.23,
+                "temp_max": 11.08,
+                "pressure": 1024,
+                "humidity": 83,
+                "sea_level": 1024,
+                "grnd_level": 1010
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.06,
+                "deg": 40
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1794111647,
+            "sys": {
+                "type": 2,
+                "id": 2000926,
+                "country": "IT",
+                "sunrise": 1794117047,
+                "sunset": 1794153411
+            },
+            "timezone": 3600,
+            "id": 3169070,
+            "name": "Rome",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 13.4105,
+                "lat": 52.5244
+            },
+            "weather": [
+                {
+                    "id": 701,
+                    "main": "Mist",
+                    "description": "niebla",
+                    "icon": "50n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.36,
+                "feels_like": 0.23,
+                "temp_min": 1.34,
+                "temp_max": 2.79,
+                "pressure": 1025,
+                "humidity": 98,
+                "sea_level": 1025,
+                "grnd_level": 1020
+            },
+            "visibility": 4000,
+            "wind": {
+                "speed": 2.06,
+                "deg": 110
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1794111652,
+            "sys": {
+                "type": 2,
+                "id": 2004886,
+                "country": "DE",
+                "sunrise": 1794118505,
+                "sunset": 1794151508
+            },
+            "timezone": 3600,
+            "id": 2950159,
+            "name": "Berlin",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 139.6917,
+                "lat": 35.6895
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "nubes dispersas",
+                    "icon": "03d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 17.38,
+                "feels_like": 16.19,
+                "temp_min": 16.45,
+                "temp_max": 18.22,
+                "pressure": 1027,
+                "humidity": 39,
+                "sea_level": 1027,
+                "grnd_level": 1027
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 5.14,
+                "deg": 340
+            },
+            "clouds": {
+                "all": 40
+            },
+            "dt": 1794111625,
+            "sys": {
+                "type": 2,
+                "id": 268395,
+                "country": "JP",
+                "sunrise": 1794085771,
+                "sunset": 1794123624
+            },
+            "timezone": 32400,
+            "id": 1850144,
+            "name": "Tokyo",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": -74.006,
+                "lat": 40.7143
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "lluvia ligera",
+                    "icon": "10n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 9.91,
+                "feels_like": 6.91,
+                "temp_min": 8.65,
+                "temp_max": 10.68,
+                "pressure": 1010,
+                "humidity": 71,
+                "sea_level": 1010,
+                "grnd_level": 1007
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 6.69,
+                "deg": 260
+            },
+            "rain": {
+                "1h": 0.58
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1794111468,
+            "sys": {
+                "type": 2,
+                "id": 2111743,
+                "country": "US",
+                "sunrise": 1794051201,
+                "sunset": 1794087965
+            },
+            "timezone": -18000,
+            "id": 5128581,
+            "name": "New York",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": -99.1277,
+                "lat": 19.4285
+            },
+            "weather": [
+                {
+                    "id": 761,
+                    "main": "Dust",
+                    "description": "polvo",
+                    "icon": "50n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 16.66,
+                "feels_like": 16.03,
+                "temp_min": 16.64,
+                "temp_max": 17.34,
+                "pressure": 1018,
+                "humidity": 63,
+                "sea_level": 1018,
+                "grnd_level": 780
+            },
+            "visibility": 8047,
+            "wind": {
+                "speed": 3.6,
+                "deg": 320
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1794111512,
+            "sys": {
+                "type": 2,
+                "id": 47729,
+                "country": "MX",
+                "sunrise": 1794055215,
+                "sunset": 1794096010
+            },
+            "timezone": -21600,
+            "id": 3530597,
+            "name": "Mexico City",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": -99.9167,
+                "lat": 21
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "nubes dispersas",
+                    "icon": "03n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 15.72,
+                "feels_like": 15.62,
+                "temp_min": 15.72,
+                "temp_max": 15.72,
+                "pressure": 1019,
+                "humidity": 87,
+                "sea_level": 1019,
+                "grnd_level": 824
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.37,
+                "deg": 137,
+                "gust": 3.44
+            },
+            "clouds": {
+                "all": 38
+            },
+            "dt": 1794111621,
+            "sys": {
+                "country": "MX",
+                "sunrise": 1794055528,
+                "sunset": 1794096075
+            },
+            "timezone": -21600,
+            "id": 3520914,
+            "name": "Querétaro",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 151.2073,
+                "lat": -33.8679
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "algo de nubes",
+                    "icon": "02d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 17.63,
+                "feels_like": 16.88,
+                "temp_min": 16.09,
+                "temp_max": 19.38,
+                "pressure": 1021,
+                "humidity": 55,
+                "sea_level": 1021,
+                "grnd_level": 1015
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 13.89,
+                "deg": 190
+            },
+            "clouds": {
+                "all": 20
+            },
+            "dt": 1794111566,
+            "sys": {
+                "type": 2,
+                "id": 2091046,
+                "country": "AU",
+                "sunrise": 1794077340,
+                "sunset": 1794126527
+            },
+            "timezone": 39600,
+            "id": 2147714,
+            "name": "Sydney",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": -79.4163,
+                "lat": 43.7001
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "nubes",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 7.45,
+                "feels_like": 3.44,
+                "temp_min": 6.94,
+                "temp_max": 7.75,
+                "pressure": 1015,
+                "humidity": 85,
+                "sea_level": 1015,
+                "grnd_level": 993
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 7.72,
+                "deg": 280
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1794111553,
+            "sys": {
+                "type": 2,
+                "id": 2010632,
+                "country": "CA",
+                "sunrise": 1794052882,
+                "sunset": 1794088881
+            },
+            "timezone": -18000,
+            "id": 6167865,
+            "name": "Toronto",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 116.3972,
+                "lat": 39.9075
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "nubes",
+                    "icon": "04d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 5.94,
+                "feels_like": 5.94,
+                "temp_min": 5.94,
+                "temp_max": 5.94,
+                "pressure": 1040,
+                "humidity": 63,
+                "sea_level": 1040,
+                "grnd_level": 1034
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 0.5,
+                "deg": 325,
+                "gust": 3.06
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1794111616,
+            "sys": {
+                "type": 1,
+                "id": 9609,
+                "country": "CN",
+                "sunrise": 1794091841,
+                "sunset": 1794128736
+            },
+            "timezone": 28800,
+            "id": 1816670,
+            "name": "Beijing",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 31.2497,
+                "lat": 30.0626
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cielo claro",
+                    "icon": "01d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 17.42,
+                "feels_like": 16.76,
+                "temp_min": 16.9,
+                "temp_max": 17.42,
+                "pressure": 1019,
+                "humidity": 59,
+                "sea_level": 1019,
+                "grnd_level": 1020
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.09,
+                "deg": 250
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1794111639,
+            "sys": {
+                "type": 1,
+                "id": 2514,
+                "country": "EG",
+                "sunrise": 1794111254,
+                "sunset": 1794150196
+            },
+            "timezone": 7200,
+            "id": 360630,
+            "name": "Cairo",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": -77.0282,
+                "lat": -12.0432
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "algo de nubes",
+                    "icon": "02n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 22.99,
+                "feels_like": 23.51,
+                "temp_min": 21.9,
+                "temp_max": 23.14,
+                "pressure": 1013,
+                "humidity": 83,
+                "sea_level": 1013,
+                "grnd_level": 988
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 6.69,
+                "deg": 160
+            },
+            "clouds": {
+                "all": 20
+            },
+            "dt": 1794111655,
+            "sys": {
+                "type": 2,
+                "id": 2112741,
+                "country": "PE",
+                "sunrise": 1794047636,
+                "sunset": 1794092980
+            },
+            "timezone": -18000,
+            "id": 3936456,
+            "name": "Lima",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": -74.0817,
+                "lat": 4.6097
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "muy nuboso",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 12.85,
+                "feels_like": 12.7,
+                "temp_min": 12.31,
+                "temp_max": 13.15,
+                "pressure": 1021,
+                "humidity": 96,
+                "sea_level": 1021,
+                "grnd_level": 740
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.03,
+                "deg": 0
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1794111425,
+            "sys": {
+                "type": 2,
+                "id": 2113042,
+                "country": "CO",
+                "sunrise": 1794048117,
+                "sunset": 1794091085
+            },
+            "timezone": -18000,
+            "id": 3688689,
+            "name": "Bogota",
+            "cod": 200
+        }
+    ]
+}
